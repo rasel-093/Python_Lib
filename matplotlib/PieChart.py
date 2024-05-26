@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
+
 
 # x and y coordinates data
 student = np.array(["Rasel", "Shezan", "Tanzid", "Shoikot", "Toufique", "Niloy"])

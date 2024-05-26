@@ -20,7 +20,7 @@ plt.plot(dataFrame["MRP"], dataFrame["Weight_grams"])
 
 # Add grid lines
 plt.grid()
-# Plot labesl
+# Plot labels
 plt.xlabel("Bat price(USD)")
 plt.ylabel("Bat Weight(Grams)")
 
