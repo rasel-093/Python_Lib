@@ -10,7 +10,8 @@ y2 = np.array([1, 8, 27, 64])
 t = np.arange(0, 5, .2)
 
 # print(t)
-plt.plot(a, b, ':') #Plots dot
+#plt.plot(a, b, ':') #Plots dot
+plt.plot(y1, 'o:r') #dotted line with red marker
 # plt.plot(a, b, marker='D') #Plots line with dot
 # Plots red dashes, blue squares and green triangles
 # plt.plot(t, t,'r--', t, t**2, 'bs', t, t**3, 'g^')
